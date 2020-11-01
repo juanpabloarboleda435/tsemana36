@@ -1,0 +1,241 @@
+.ci{
+	background-image: url(racis.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 70%;
+	height: 80%;
+	position: absolute;
+	left: 12%;
+	top: 10%;
+
+}
+.re{
+	background-image: url(jose2.png);
+	background-repeat: no-repeat;
+	background-size: 50%;
+	width: 320px;
+	height: 700px;
+	position: absolute;
+	left: 70%;
+	top: 40%;
+}
+.re2{
+	background-image: url(mason.png);
+	background-repeat: no-repeat;
+	background-size: 50%;
+	width: 320px;
+	height: 700px;
+	position: absolute;
+	left: 20%;
+	top: 40%;
+}
+.re3{
+	background-image: url(robert.png);
+	background-repeat: no-repeat;
+	background-size: 42%;
+	width: 320px;
+	height: 700px;
+	position: absolute;
+	left: 50%;
+	top: 44%;
+}
+.sci{
+	font-size:80px;
+	position: relative;
+	left: 2%;
+	top: 10px;
+
+}
+.b1{
+ 	position: absolute;
+	top: 250px;
+	left: 0px;
+	width: 150px;
+	height: 50px;
+	    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+}
+.b2{
+	position: absolute;
+	top: 400px;
+	left: 0px;
+	width: 150px;
+	height: 50px;
+	    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: black;
+    background-color:white;
+    border: 2px solid black;
+}
+.b3{
+	position: absolute;
+	top: 100px;
+	left: 0px;
+	width: 150px;
+	height: 50px;
+	    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: black;
+    background-color: white;
+    border: 2px solid black;
+}
+.b4{
+	position: absolute;
+	top: 530px;
+	left: 0px;
+	width: 150px;
+	height: 50px;
+	    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+}
+.cie1{
+	background-image: url(salon.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 70%;
+	height: 80%;
+	position: absolute;
+	left: 12%;
+	top: 10%;
+
+}
+.cf1{
+
+	background-image: url(jose2.png);
+	background-repeat: no-repeat;
+	background-size: 50%;
+	width: 320px;
+	height: 700px;
+	position: absolute;
+	left: 70%;
+	top: 0%;
+
+}
+.cf1s{
+
+
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 500px;
+	height: 300px;
+	position: absolute;
+	left: 300px;
+	top: 0%;
+	border: 2px black solid;
+	color: white;
+
+}
+.cf2{
+
+	background-image: url(mason.png);
+	background-repeat: no-repeat;
+	background-size: 50%;
+	width: 300px;
+	height: 400px;
+	position: absolute;
+	left: 70%;
+	top: 55%;
+
+}
+.cf2s{
+
+
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 500px;
+	height: 300px;
+	position: absolute;
+	left: 300px;
+	top: 50%;
+	border: 2px black solid;
+	color: white;
+
+}
+.cf3{
+
+	background-image: url(marily.png);
+	background-repeat: no-repeat;
+	background-size: 250px;
+	width: 400px;
+	height: 400px;
+	position: absolute;
+	left: 70%;
+	top: 105%;
+
+}
+.cf3s{
+
+
+	background-repeat: no-repeat;
+	background-size: 10%;
+	width: 500px;
+	height: 300px;
+	position: absolute;
+	left: 300px;
+	top: 110%;
+	border: 2px black solid;
+	color: white;
+
+}
+.cf4{
+
+	background-image: url(robert.png);
+	background-repeat: no-repeat;
+	background-size: 50%;
+	width: 400px;
+	height: 340px;
+	position: absolute;
+	left: 70%;
+	top: 170%;
+
+}
+.cf4s{
+
+
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 500px;
+	height: 300px;
+	position: absolute;
+	left: 300px;
+	top: 170%;
+	border: 2px black solid;
+	color: white;
+
+}
+.cf5{
+
+	background-image: url(papas.png);
+	background-repeat: no-repeat;
+	background-size: 400px;
+	width: 400px;
+	height: 400px;
+	position: absolute;
+	left: 70%;
+	top: 220%;
+
+}
+.cf5s{
+
+
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 500px;
+	height: 300px;
+	position: absolute;
+	left: 300px;
+	top: 230%;
+	border: 2px black solid;
+	color: white;
